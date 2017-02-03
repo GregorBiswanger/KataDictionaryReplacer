@@ -1,0 +1,17 @@
+{
+  "name": "katadictionaryreplacer",
+  "version": "1.0.0",
+  "description": "JavaScript Coding Dojo Kata - DictionaryReplacer",
+  "scripts": {
+    "test": "jasmine-node spec --autotest --watch . --color --verbose"
+  },
+  "author": "Gregor Biswanger",
+  "homepage": "http://www.cross-platform-blog.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jasmine-node": "^1.14.30",
+    "@types/node": "^7.0.4",
+    "jasmine-node": "^1.14.5",
+    "tslint": "^4.4.2"
+  }
+}
