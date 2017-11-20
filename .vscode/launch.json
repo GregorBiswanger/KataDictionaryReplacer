@@ -13,7 +13,8 @@
                 "."
             ],
             "cwd": "${workspaceRoot}",
-            "outFiles": [],
+            "outFiles": ["${workspaceRoot}/**"],
+            "console": "integratedTerminal",
             "sourceMaps": true
         }
     ]
